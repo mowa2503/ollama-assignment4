@@ -110,8 +110,6 @@ Open `model_outputs.csv` to inspect the full text of every answer.
 - `model_outputs.csv` — **generated after successful execution**; contains the real responses
 - `requirements.txt` — Python dependency
 - `README.md` — explanation, reproducible steps, measurements, and observations
-- `GUIDE_FA.md` — setup and submission instructions in Persian
-- `.gitignore` — excludes the local virtual environment, Python caches, and secret files
 
 ## Sources
 
